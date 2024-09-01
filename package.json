@@ -1,0 +1,22 @@
+{
+  "name": "diachat",
+  "version": "1.0.0",
+  "description": "chat application with public feed to share with others.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikh2901/diachat.git"
+  },
+  "author": "Nikhil Anurag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikh2901/diachat/issues"
+  },
+  "homepage": "https://github.com/nikh2901/diachat#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
